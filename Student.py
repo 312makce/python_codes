@@ -22,3 +22,5 @@ melis.mark.append(87)
 print(f'average of your marks {melis.average()} ')
 print(melis.weekly_salary)
 
+
+# test short cuts for git commit
